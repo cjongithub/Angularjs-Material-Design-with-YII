@@ -1,0 +1,810 @@
+2015/04/14 20:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php/site/login
+---
+2015/04/14 20:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:53:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:54:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 20:59:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/index.php
+---
+2015/04/14 21:01:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/rosinghal/Documents/www/framework/web/CController.php:483
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('webservice')
+#3 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/petmate/webservice
+---
+2015/04/14 21:01:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/site/login
+---
+2015/04/14 21:01:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 21:03:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/petmate/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/petmate/
+---
+2015/04/14 21:04:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:04:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:06:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:07:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:07:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:09:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:09:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:09:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:11:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/14 21:11:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:29:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:31:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:33:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:35:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---
+2015/04/15 04:35:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /Users/rosinghal/Documents/www/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/rosinghal/Documents/www/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /Users/rosinghal/Documents/www/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/rosinghal/Documents/www/material-angular-yii/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/material-angular-yii/
+---

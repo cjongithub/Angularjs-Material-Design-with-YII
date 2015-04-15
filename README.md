@@ -1,4 +1,4 @@
-# Angularjs-Material-Design-with-YII
+# Angularjs Material Design with YII
 Using <a href="http://material.angularjs.org">Angular Material Design</a> with <a href="http://www.yiiframework.com/">YII</a>
 
 Angularjs is a Javascript framework (client side).
